@@ -1,2 +1,2 @@
-# LetsDrawSomeLines
-This is a simple project for making some lines on the image, especially focuses on highlighting on the texts. 
+# DrawingLines
+This is a simple project for making some lines on the image, and focuses on text highlighting. 
